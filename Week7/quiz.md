@@ -1,4 +1,4 @@
-# Week 1 Quiz
+# Week 7 Quiz
 
 ## All questions carry equal weightage. All Python code is assumed to be executed using Python3. You may submit as many times as you like within the deadline. Your final submission will be graded.
 
